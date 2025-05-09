@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/pbehrns/"> Phillip Behrns</a> Cybersecurity Project Portfolio 🔐
 
-Information security manager and Azure cloud specialist bridging technical and business expertise to solve cyber challenges.
+Information Security Manager | Azure Cloud Security Admin 
 
 ## 🤳 Connect With Me
 
