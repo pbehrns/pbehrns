@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/pbehrns/"> Phillip Behrns</a> IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/pbehrns/"> Phillip Behrns's</a> Cybersecurity Project Portfolio 🔐
 
 Information security manager and Azure cloud specialist bridging technical and business expertise to solve cyber challenges.
 
