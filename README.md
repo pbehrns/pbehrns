@@ -26,7 +26,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## Certifications
 
-- 🛡️ [CISM Certified Information Security Manager ISACA](https://www.credly.com/badges/d7302201-3a65-436c-b0cf-2579497329e5)
+- 🛡️ [CISM Certified Information Security Manager ISACA](https://www.credly.com/users/pbehrns)
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
